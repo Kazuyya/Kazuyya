@@ -18,9 +18,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kazuyya&" alt="kazuyya" /></p>
 
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Kazuyya/count.svg" />
-</p>
